@@ -5,6 +5,8 @@ category:           web
 homepage:           https://github.com/hypered/enterprises/
 synopsis:           Download Open Data files from the Belgian CBE.
 description:        This program assists in downloading CSV files from the CBE Open Data pages.
+license:             BSD-2-Clause
+license-file:        LICENSE
 
 common common-extensions
   default-language: Haskell2010

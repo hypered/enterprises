@@ -18,6 +18,7 @@ let
       root = ../.;
       include = with nix-filter; [
         "enterprises.cabal"
+        "LICENSE"
         (and "bin" (or_ (matchExt "hs") isDirectory))
         (and "src" (or_ (matchExt "hs") isDirectory))
       ];
