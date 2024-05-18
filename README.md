@@ -42,7 +42,8 @@ Available commands:
 
 ## Acknowledgment
 
-This software is developed by Hypered SRL for the Refli Software-as-a-Service
-web application. It is provided "as is" under the 2-Clause BSD license. For
-support, custom development, or to explore how we can help with your specific
-software needs, please contact Hypered SRL.
+This software is developed by [Hypered SRL](https://hypered.be/) for the
+[Refli](https://refli.be/) Software-as-a-Service web application. It is
+provided "as is" under the 2-Clause BSD license. For support, custom
+development, or to explore how we can help with your specific software needs,
+please [contact Hypered SRL](https://hypered.be/contact.html).
